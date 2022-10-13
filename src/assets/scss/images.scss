@@ -1,0 +1,17 @@
+// -brand-img-
+.brand-img {
+    width: 130px;
+    height: auto;
+}
+
+.brand-img-2 {
+    width: 200px;
+    height: auto;
+}
+
+@media (min-width: 992px) {
+    .brand-img {
+        width: 200px;
+    }
+}
+
