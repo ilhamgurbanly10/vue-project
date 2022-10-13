@@ -1,6 +1,7 @@
 <template>
 
     <PageHeader/>
+    <router-view/>
     <PageFooter/>
   
 </template>

@@ -4,8 +4,6 @@
     <div>I am Header</div>
     <HeaderNavbar/>
   </header>
-
-  <router-view/>
   
 </template>
 
